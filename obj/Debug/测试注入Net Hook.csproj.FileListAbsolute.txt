@@ -1,0 +1,8 @@
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\obj\Debug\测试注入Net_Hook.Form1.resources
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\obj\Debug\测试注入Net Hook.csproj.GenerateResource.cache
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\obj\Debug\测试注入Net Hook.csproj.CoreCompileInputs.cache
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\bin\Debug\测试注入Net Hook.dll
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\bin\Debug\测试注入Net Hook.pdb
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\obj\Debug\测试注入Net Hook.dll
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\obj\Debug\测试注入Net Hook.pdb
+C:\Users\16944\source\repos\测试注入Net Hook\测试注入Net Hook\obj\Debug\测试注入Net Hook.csprojAssemblyReference.cache
