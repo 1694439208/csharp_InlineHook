@@ -2,7 +2,6 @@
 net 实现InlineHook
 
 
-![Shurnim icon](http://onecoder.qiniudn.com/8wuliao/DLPii2Jx/rEBO.jpg)
  
 ## 目录
 * [背景介绍](#背景介绍)
@@ -67,6 +66,8 @@ Inline_Hook.InlineHook(3212659,5, byteSource.ToArray(), getInt(Method),11+10,"�
                 }
             });
 ```
+
+![Shurnim icon](https://github.com/1694439208/csharp_InlineHook/blob/master/549875165.png)
 <a name="其他"></a>
 ## 其他
  
