@@ -6,6 +6,7 @@ net 实现InlineHook
 ## 目录
 * [背景介绍](#背景介绍)
 * [项目介绍](#项目介绍)
+* [项目原理](#项目原理)
 * [使用说明](#使用说明)
        * [接口介绍](#接口介绍)
        * [使用样例](#使用样例)
@@ -26,7 +27,9 @@ net 实现InlineHook
 一个是网友实现的只支持托管进程hook 
 
 本项目可以支持InlineHook 任意点hook 函数或者流程
-
+<a name="项目原理"></a>
+使用非托管dll当作跳板用于加载非托管dll实现注入
+剩下的hook全部在非托管实现
 <a name="使用说明"></a>
 ## 使用说明
  net可以直接编译，
@@ -35,7 +38,7 @@ net 实现InlineHook
  
 <a name="使用样例"></a>
 #### 使用样例
-```      
+```c#
 Inline_Hook.InlineHook(3212659,5, byteSource.ToArray(), getInt(Method),11+10,"接收消息",(obj) =>{
                 StringBuilder sb = new StringBuilder();
                 sb.Append("接收消息:");
