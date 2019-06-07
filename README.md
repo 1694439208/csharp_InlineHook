@@ -75,6 +75,6 @@ Inline_Hook.InlineHook(3212659,5, byteSource.ToArray(), getInt(Method),11+10,"�
  
 * Email: <1694439208@qq.com>
 * QQ:1694439208
-* Blog:[OneCoder](https://my.oschina.net/KFS)
+* Blog:[Blog](https://my.oschina.net/KFS)
  
 项目的Bug和改进点，可在OSChina上以issue的方式直接提交给我。
